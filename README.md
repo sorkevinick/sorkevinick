@@ -1,7 +1,7 @@
 <!-- Saudação -->
 
 <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Kevin+Fonseca." alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=falso&vCenter=falso&repeat=verdadeiro&width=435&lines=Ol%C3%A1!+eu+sou+o+Kevin+Fonseca." alt="Typing SVG" /></a>
 </div>
 
 #
